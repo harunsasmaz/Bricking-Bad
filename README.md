@@ -4,6 +4,14 @@ Software Engineering Course Term Project
 
 Developed with Java Swing
 
+### Save/Load and Login/Sign-up
+
+  * MongoDB
+
+### Testing
+
+  * JUnit
+
 ## About the Project
 
 Project consists several parts as the following.
