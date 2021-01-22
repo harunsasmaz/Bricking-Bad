@@ -1,13 +1,9 @@
-The Hateful Six - Koc University Fall19 Comp302 Term Project
+# Bricking Bad
 
-Project: Bricking Bad Game
+Software Engineering Course Term Project
+
+Developed with Java Swing
+
+### Gameplay
 
 ![](demo.gif)
-
-Team Members:<br />
-Anıl Kul<br />
-Harun Şaşmaz<br />
-Fırat Tamur<br />
-Ökkeş Uğur Ulaş<br />
-Haldun Balım<br />
-Ece Küçükpehlivan<br />
